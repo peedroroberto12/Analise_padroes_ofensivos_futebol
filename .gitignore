@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+sample-data/
+data/
+*.pt
+*.mp4
+runs/
+.DS_Store

@@ -1,0 +1,23 @@
+{
+  "n_sequencias": 288,
+  "por_jogo": {
+    "Sample_Game_1": 144,
+    "Sample_Game_2": 144
+  },
+  "k": 4,
+  "silhouette": 0.20805179562662238,
+  "davies_bouldin": 1.4842929714694995,
+  "estabilidade_bootstrap_ari_media": 0.7241907669801055,
+  "estabilidade_bootstrap_ari_p10": 0.4066577706448482,
+  "features_cluster": [
+    "duracao_s",
+    "n_passes",
+    "progressao_m",
+    "velocidade_prog_ms",
+    "lateralidade_m",
+    "trocas_corredor",
+    "largura_m",
+    "altura_bloco_m"
+  ],
+  "ari_transferencia_jogo1_para_jogo2": 0.694608025384944
+}

@@ -1,0 +1,4 @@
+-r requirements.txt
+opencv-python
+ultralytics
+lap>=0.5.12
